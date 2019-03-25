@@ -20,11 +20,11 @@ todo
 
 **1)** Make sure the route is not included in the project or it demands update.
 
-**2)** **Fork** the repo.
+**2)** **Fork** this repo.
 
-**3)** You can import or edit [/model/model_generate.py](model/model_generate.py) and fill in the infomation of your route, then generate new route.
+**3)** You can import or edit [/model/model_generate.py](model/model_generate.py) and fill in the infomation of your route, then generate a new JSON file for your route.
 
-**4)** Submit a new **Pull Request** with your modification and **a photograph of the board of the route** as appendix.
+**4)** Submit a new **Pull Request** with your modification and **a photograph of the board of the route** as appendix. Photos **must** be taken **recently** and **by yourself**(rather than a copy from Internet).
 
 If you have questions about this project, please submit a new **Issue**, thanks.
 
