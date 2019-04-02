@@ -25,6 +25,7 @@ model = {
     # 1) "6:40-23:00" (consecutive)
     # 2) "6:30,9:30,13:00,16:00" (discrete)
     # 3) "7:00-9:00,16:30-20:30" (divided into consecutive periods)
+    # 4) "平日6:15-9:45,16:15-19:45节假日8:45-18:15" (different schedule on weekends & holidays)
     # if the board shows both directions of the route,
     # e.g. "香泉环岛5:20-21:40动物园枢纽站5:20-22:00"
     # if from_stop=="动物园枢纽站" then use "5:20-22:00"
